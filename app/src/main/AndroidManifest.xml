@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.firebasecrud">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true">
+        <activity
+            android:name=".addImage"
+            android:exported="false"
+            android:theme="@style/Theme.addImage" />
+        <activity
+            android:name=".GaleriaFotos"
+            android:theme="@style/Theme.GaleriaFotos" />
+        <activity
+            android:name=".EditActivity"
+            android:theme="@style/Theme.AddActivity" />
+        <activity
+            android:name=".DetailActivity"
+            android:theme="@style/Theme.DetailActivity" />
+        <activity
+            android:name=".AddActivity"
+            android:theme="@style/Theme.AddActivity" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true"
+            android:theme="@style/Theme.MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

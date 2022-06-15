@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "958447423602",
+    "firebase_url": "https://tattoostyles-f5f38-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "tattoostyles-f5f38",
+    "storage_bucket": "tattoostyles-f5f38.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:958447423602:android:c89cdd6bdda843fca072eb",
+        "android_client_info": {
+          "package_name": "com.example.demofirebasetorecycler"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "958447423602-6vugdpfvvkv4jksgd5vvlicvtn751nh3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbqseT1smTu1VC1I2tCf0gaUjGYgBCOsk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "958447423602-6vugdpfvvkv4jksgd5vvlicvtn751nh3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:958447423602:android:119d1b7c7fa0d43aa072eb",
+        "android_client_info": {
+          "package_name": "com.example.firebasecrud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "958447423602-6vugdpfvvkv4jksgd5vvlicvtn751nh3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbqseT1smTu1VC1I2tCf0gaUjGYgBCOsk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "958447423602-6vugdpfvvkv4jksgd5vvlicvtn751nh3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:958447423602:android:017b6d6dc1cc08f5a072eb",
+        "android_client_info": {
+          "package_name": "com.guillem.tattoostyles"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "958447423602-6vugdpfvvkv4jksgd5vvlicvtn751nh3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbqseT1smTu1VC1I2tCf0gaUjGYgBCOsk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "958447423602-6vugdpfvvkv4jksgd5vvlicvtn751nh3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

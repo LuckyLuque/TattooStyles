@@ -1,0 +1,43 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.MainActivity" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimaryDark">@color/white</item>
+        <!-- Secondary brand color. -->
+        <item name="colorAccent">@color/teal_200</item>
+    </style>
+
+    <style name="Theme.AddActivity" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimaryDark">@color/purple_700</item>
+        <!-- Secondary brand color. -->
+        <item name="colorAccent">@color/teal_200</item>
+    </style>
+
+    <style name="Theme.DetailActivity" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimaryDark">@color/purple_500</item>
+        <!-- Secondary brand color. -->
+        <item name="colorAccent">@color/teal_200</item>
+    </style>
+
+    <style name="Theme.GaleriaFotos" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimaryDark">@color/purple_500</item>
+        <!-- Secondary brand color. -->
+        <item name="colorAccent">@color/teal_200</item>
+    </style>
+
+
+    <style name="Theme.addImage" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimaryDark">@color/purple_500</item>
+        <!-- Secondary brand color. -->
+        <item name="colorAccent">@color/teal_200</item>
+    </style>
+
+
+    <style name="Theme.FirebaseCRUD.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="Theme.FirebaseCRUD.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+</resources>
